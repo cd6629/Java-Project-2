@@ -1,21 +1,3 @@
-//=============================================================================
-// PROGRAMMER: Dante Cook
-// PANTHER ID: 5686335
-//
-// CLASS: COP2210
-// SECTION: U04-U06
-// SEMESTER: Fall 2020
-// CLASSTIME: T/TH 5:00-6:15 pm
-//
-// Project: Project 2
-// DUE: 11/08/20
-//
-// CERTIFICATION:  I understand FIU’s academic policies, and I certify that this
-//                 work is my  own and that none of it is the work of any 
-//                 other person.
-//=============================================================================
-
-
 package app;
 import food.Apple;
 import food.Sandwich;
